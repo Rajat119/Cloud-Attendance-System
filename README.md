@@ -9,6 +9,3 @@ Architecture
 Extra Notes
 ---------------
 https://scripting4ever.wordpress.com/2021/03/23/different-views-based-on-users-privileges-in-django-application/
-
-
-Developer - K.Janarthanan
